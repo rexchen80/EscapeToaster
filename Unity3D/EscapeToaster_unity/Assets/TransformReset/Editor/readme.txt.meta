@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 18b089251f50a014bb31e819d78b7ff6
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 31313
+  packageName: Transform Reset
+  packageVersion: 1.3
+  assetPath: Assets/TransformReset/Editor/readme.txt
+  uploadId: 140420

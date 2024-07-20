@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d4bacec4eaa9b9438d2cf6bc8893459
+timeCreated: 1475695694
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 31313
+  packageName: Transform Reset
+  packageVersion: 1.3
+  assetPath: Assets/TransformReset/Editor/version changes.txt
+  uploadId: 140420
